@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-EDA-Instragram-Data
+# Exploratory-Data-Analysis-EDA-Instagram-Data
 
 Exploratory Data Analysis (EDA) is a fundamental aspect of Data Science, involving the thorough examination of a dataset to unveil underlying patterns, trends, and associations. This process enhances our comprehension of the dataset's content and aids in making informed choices and devising effective approaches for addressing tangible business challenges. In this notebook, I will lead you through a practical application of Exploratory Data Analysis utilizing the Python programming language.
 
