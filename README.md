@@ -20,4 +20,6 @@ Overall, the dataset consists of a total of 119 rows and 13 columns with the col
 12. Caption: Text accompanying the post
 13. Utilized Hashtags: Hashtags employed in the post
 
+Check this repository in [Kaggle](https://www.kaggle.com/code/sophiekanhachin/exploratory-data-analysis)
+
 Disclaimer: This notebook is for my learning and practice purpose only, and the source code I run here is referenced from [THIS GUIDE](https://thecleverprogrammer.com/2023/05/30/exploratory-data-analysis-using-python/)
